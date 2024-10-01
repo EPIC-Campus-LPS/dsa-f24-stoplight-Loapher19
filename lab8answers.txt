@@ -1,0 +1,13 @@
+Q1. What is a Python library and how do you use one?
+A Python library is basically someone else's code you can put in your own program.
+In fact, you can make libraries yourself and upload them to the internet for people to use.
+You can use one using the syntax 'import modulename' at the top of your code.
+
+Q2. What does it mean for elements of circuits to be in series? What does it mean for them to be in parallel?
+If two elements are in series, the end of one connects to the start of the other.
+However, if two elements are in parallel, they both run at the same time, with the circuit splitting into two.
+
+Q3. Is it possible to create a circuit with 3 LEDs in series? Why or why not?
+It is infact possible, as electrical current flows into the LED, and, importantly, comes back out.
+This means if you link the end of one LED to the start of another and complete the circuit as normal, both should light up.
+
